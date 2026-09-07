@@ -32,6 +32,6 @@ From a checkout of this repo:
 
 ## Requirements
 
-Ruby 2.6 or newer, stdlib only — no gems, no bundler, no install step.
+Ruby 2.6 or newer, stdlib only.
 
 This comes installed by default on MacOS.
