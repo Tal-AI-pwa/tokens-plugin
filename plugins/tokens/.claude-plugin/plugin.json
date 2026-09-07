@@ -1,0 +1,9 @@
+{
+  "name": "tokens",
+  "description": "Charts Claude Code token usage over time from local session transcripts, and syncs it to a tal account.",
+  "version": "0.1.0",
+  "author": {
+    "name": "haakon-kohler"
+  },
+  "keywords": ["usage", "tokens", "analytics", "sync"]
+}

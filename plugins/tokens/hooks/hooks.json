@@ -1,0 +1,16 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "matcher": "startup",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "ruby \"${CLAUDE_PLUGIN_ROOT}/scripts/tokens.rb\" --hook",
+            "timeout": 10
+          }
+        ]
+      }
+    ]
+  }
+}

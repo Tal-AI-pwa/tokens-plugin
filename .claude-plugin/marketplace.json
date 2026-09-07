@@ -1,0 +1,13 @@
+{
+  "name": "tal",
+  "owner": {
+    "name": "haakon-kohler"
+  },
+  "plugins": [
+    {
+      "name": "tokens",
+      "source": "./plugins/tokens",
+      "description": "Charts Claude Code token usage and estimated cost over time."
+    }
+  ]
+}
